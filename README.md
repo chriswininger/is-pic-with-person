@@ -1,8 +1,9 @@
 Is Pic With Person
 -------------------------
 
-The idea is to build out a simple python script that uses ml to answer if a person is in a picture
-From here there will be some utilities around this script to test it an eventually catalog my images
+A simple python script that answers the question: does this pic have a person in it?
+
+The idea is to build out tools to indetify and catelog all the images on my computer with people in them.
 
 ## Running
 
